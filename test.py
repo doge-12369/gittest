@@ -1,2 +1,2 @@
-age = 25
-print("You are young")
+age = 80
+print("You are old")
